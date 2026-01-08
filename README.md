@@ -30,8 +30,6 @@ A aplicação do K-Means revelou 5 perfis de clientes claros e acionáveis:
 *   **Cluster 0 (Jovens Gastadores):** Clientes com baixa renda, mas que gastam muito. Prováveis alvos para tendências, fast fashion e entretenimento.
 *   **Cluster 4 (Cautelosos):** Clientes com baixa renda e baixa pontuação de gastos, focados em compras essenciais e promoções.
 
-![Visualização dos Clusters](link_para_seu_grafico.png) 
-*(Dica: Você pode tirar um print do seu gráfico de clusters, fazer o upload para o repositório e colocar o link aqui para que ele apareça no README)*
 
 ## 🚀 Como Executar o Projeto
 
